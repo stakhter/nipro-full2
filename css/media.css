@@ -1,0 +1,544 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+	/*	header start*/
+header {
+    padding: 0;
+}
+.nav_t:focus {
+    box-shadow: none;
+}
+.ddm {
+    width: 280px;
+    padding: 5px 5px;
+}
+.ddm[data-bs-popper] {
+    top: 38px;
+    left: 5px;
+}
+.d_input{
+    height: 40px;
+}
+.d_btn{
+    height: 40px;
+}
+.logo{
+    font-size: 25px;
+}
+/*slider start	*/
+.s_item {
+    margin: 70px 0;
+}
+.s_h1 {
+    font-size: 25px;
+    text-align: center;
+}
+.s_p {
+    padding-right: 0;
+    line-height: 25px;
+    text-align: center;
+}
+.s_btn {
+    padding: 5px 20px;
+}
+/*service start*/
+.c_padd{
+    padding-bottom: 50px;
+}
+.ser_h1 {
+    font-size: 25px;
+}
+.ser_p {
+    margin-top: 35px;
+    padding: 0 15px;
+    line-height: 25px;
+}
+.ser_item {
+    margin-top: 55px;
+}
+/*about start*/
+.c_padd{
+    padding-bottom: 50px;
+}
+.a_img {
+    display: none;
+}
+.a_about p {
+    margin: 25px 0 25px;
+    padding: 0;
+    line-height: 25px;
+}
+.a_about button {
+    padding: 5px 10px;
+}
+/*work start*/
+.c_padd{
+    padding-bottom: 50px;
+}
+.work_start {
+    margin-top: 40px;
+}
+.work_s {
+    font-size: 14px;
+    margin: 0;
+}
+.w_img {
+  margin-top: 35px;
+}
+/*feature start*/
+.c_padd{
+    padding-bottom: 50px;
+}
+.f_item {
+    margin-top: 40px;
+}
+.feature h1 {
+    font-size: 25px;
+}
+.f_item {
+    text-align: center;
+}
+.f_item p {
+    padding: 20px;
+}
+/*team start*/
+.c_padd{
+    padding-bottom: 50px;
+}
+.team_item{
+    margin-top: 45px;
+}
+/*price start*/
+.c_padd{
+    padding-bottom: 50px;
+}
+.p_item {
+    margin-top: 55px;
+    padding: 35px 0px 45px;
+}
+.p_item h2 {
+    margin: -45px 25px 0;
+}
+.p_item h3 {
+    margin-top: 25px;
+}
+.p_item p {
+    padding: 30px 45px 30px;
+    line-height: 25px;
+}
+.p_item a {
+    padding: 10px 20px;
+}
+/*responsive start*/
+.responsive {
+    margin-bottom: 50px;
+    padding: 25px 0;
+}
+.res_item a {
+    margin-top: 15px;
+    margin-right: 158px;
+    padding: 8px 15px;
+}
+/*testimony start*/
+.testimony{
+    margin-bottom: 50px;
+}
+.t_img{
+    display: none;
+}
+.test_icon {
+    display: none;
+}
+.test_area {
+    padding: 15px 10px;
+}
+.t_img{
+    position: absolute;
+}
+.test_text {
+    padding: 0 0 0 10px;
+}
+.t_p2 {
+    padding: 9px 0 0px;
+    line-height: 23px;
+}
+.test_np{
+    font-size: 12px;
+    position: relative;
+    padding: 0;
+    left: 0;
+    top: 388px;
+    bottom: 0;
+    right: 0;
+    text-align: center;
+    writing-mode: horizontal-tb !important;
+}
+.test_b1{
+    padding-bottom: 0px !important; 
+}
+.test_b2 {
+    padding-top: 0px !important;
+}
+/*contact start*/
+.contact{
+    margin-bottom: 50px;
+}
+.form_item {
+    margin-top: 30px;
+}
+.input_m {
+    height: 85px !important;
+}
+.form_item a {
+    padding: 10px 15px;
+}
+/* footer top start*/
+.c_padd{
+    padding-bottom: 50px;
+}
+.footer_p{
+    margin: 30px 0;
+    line-height: 25px;
+}
+/*footer start*/
+.footer_end address {
+    font-size: 13px;
+}
+.footer_link ul li a {
+    font-size: 13px;
+    padding-right: 15px;
+}
+.footer_order2{
+    margin-top: 10px;
+    order: 2;
+}
+.footer_order1{
+    order: 1;
+}
+}
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+/*	header start*/
+header {
+    padding: 0;
+}
+.nav_t:focus {
+    box-shadow: none;
+}
+.ddm{
+    padding: 5px 5px;
+}
+.ddm[data-bs-popper] {
+    top: -18px;
+    left: 78px;
+}
+.d_input{
+    height: 40px;
+}
+.d_btn{
+    height: 40px;
+}
+/*slider start	*/
+.s_item {
+    margin: 70px 0;
+}
+ .s_h1 {
+    font-size: 25px;
+    text-align: center;
+}
+.s_p {
+    padding-right: 0;
+    line-height: 25px;
+    text-align: center;
+}
+.s_btn {
+    padding: 5px 20px;
+}
+/*service start*/
+.c_padd{
+    padding-bottom: 50px;
+}
+.ser_p {
+    margin-top: 35px;
+    line-height: 25px;
+}
+.ser_item {
+    margin-top: 55px;
+}
+/*about start*/
+.c_padd{
+    padding-bottom: 50px;
+}
+.a_img {
+    display: none;
+}
+.a_about p {
+    margin: 25px 0 25px;
+    padding: 0;
+    line-height: 25px;
+}
+.a_about button {
+    padding: 5px 10px;
+}
+/*work start*/
+.c_padd{
+    padding-bottom: 50px;
+}
+.work_start {
+    margin-top: 40px;
+}
+.work_s {
+    margin: 0 100px;
+}
+.w_img {
+  margin-top: 35px;
+}
+/*feature start*/
+.c_padd{
+    padding-bottom: 50px;
+}
+.f_item {
+    margin-top: 40px;
+}
+.f_item p {
+    padding: 25px 0;
+}
+/*team start*/
+.c_padd{
+    padding-bottom: 50px;
+}
+.team_item{
+    margin-top: 45px;
+}
+/*price start*/
+.c_padd{
+    padding-bottom: 50px;
+}
+.p_item {
+    margin-top: 55px;
+    padding: 35px 0px 45px;
+}
+.p_item h2 {
+    margin: -45px 25px 0;
+}
+.p_item h3 {
+    margin-top: 25px;
+}
+.p_item p {
+    padding: 30px 45px 30px;
+    line-height: 25px;
+}
+.p_item a {
+    padding: 10px 20px;
+}
+/*responsive start*/
+.responsive {
+    margin-bottom: 50px;
+    padding: 25px 0;
+}
+.res_item a{
+    padding: 10px 25px;
+}
+/*testimony start*/
+.testimony{
+    margin-bottom: 50px;
+}
+.test_area {
+    padding: 15px 10px;
+}
+.test_icon {
+    top: 6%;
+}
+.test_text {
+    padding: 0 0 0 10px;
+}
+.test_np{
+    padding: 92px 15px;
+    left: 85%;
+}
+.t_p2 {
+    padding: 9px 0 0px;
+    line-height: 23px;
+}
+/*contact start*/
+.contact{
+    margin-bottom: 50px;
+}
+.form_item {
+    margin-top: 30px;
+}
+.input_m {
+    height: 85px !important;
+}
+/* footer top start*/
+.c_padd{
+    padding-bottom: 50px;
+}
+.footer_p{
+    margin: 30px 0;
+    line-height: 25px;
+}
+/*footer start*/
+.footer_link {
+   
+    margin-right: 220px;
+}
+.footer_end address {
+    font-size: 13px;
+}
+.footer_link ul li a {
+    font-size: 13px;
+    padding-right: 15px;
+}
+.footer_order2{
+    margin-top: 10px;
+    order: 2;
+}
+.footer_order1{
+    order: 1;
+}
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*header start*/
+.nav_t:focus {
+    box-shadow: none;
+}
+.ddm[data-bs-popper] {
+    top: -25px;
+    left: 100px;
+}
+/*slider start	*/
+.s_item {
+    margin: 100px 0;
+}
+/*service start*/
+.c_padd{
+    padding-bottom: 80px;
+}
+.ser_item {
+   margin-top: 60px;
+}
+/*about start*/
+.c_padd{
+    padding-bottom: 80px;
+}
+.a_about p {
+    margin: 10px 0 15px;
+    padding: 0;
+    line-height: 25px;
+}
+.a_about button {
+    padding: 10px 15px;
+}
+/*work start*/
+.c_padd{
+    padding-bottom: 80px;
+}
+.work_start {
+    margin-top: 60px;
+}
+.work_s {
+    margin: 0 190px;
+}
+.w_img {
+  margin-top: 50px;
+}
+/*feature start*/
+.c_padd{
+    padding-bottom: 80px;
+}
+.f_item {
+    margin-top: 55px;
+}
+.f_item p {
+    padding: 25px 0;
+}
+/*team start*/
+.c_padd{
+    padding-bottom: 80px;
+}
+/*price start*/
+.c_padd{
+    padding-bottom: 80px;
+}
+/*responsive start*/
+.responsive {
+    margin-bottom: 80px;
+    padding: 25px 0;
+}
+.res_item a{
+    padding: 10px 25px;
+}
+/*testimony start*/
+.testimony{
+    margin-bottom: 80px;
+}
+.test_area {
+    padding: 15px 15px;
+}
+.test_icon {
+    top: 6%;
+    left: 4%;
+    }
+.test_np{
+    left: 91%;
+}
+.test_b1 {
+    padding-bottom: 60px;
+    }
+.test_b2{
+     padding-top: 60px;
+}
+.t_p2 {
+    padding: 9px 0 0px;
+    line-height: 23px;
+}
+/*contact start*/
+.contact{
+    margin-bottom: 80px;
+}
+/* footer top start*/
+.c_padd{
+    padding-bottom: 80px;
+}
+/*footer start*/
+.footer_end address {
+    font-size: 13px;
+}
+.footer_link ul li a {
+    font-size: 13px;
+    padding-right: 15px;
+}
+.footer_link {
+    margin-top: -25px;
+}
+}
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+/*about start*/
+.a_about p {
+    margin: 10px 0 15px;
+    padding: 0;
+    line-height: 25px;
+}
+.a_about button {
+    padding: 10px 15px;
+}
+}
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+/*work*/
+.work_s {
+    margin: 0 400px !important;
+}
+}
+/* Extra Extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+/*work*/
+.work_s {
+    margin: 0 490px;
+}
+}
